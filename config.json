@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicerync",
+        "uuid": 15563394,
+        "checksum": "050whq"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
